@@ -11,6 +11,9 @@ ART WORKS: a collection of work created during An Artist’s History of Computer
 ART WORK: 2019, by artist Guo O Dong and the collective MSCHF, sold at auction for $1,345,000
 (https://thepersistenceofchaos.com/)
 
+**DJ_Dave - Give it 2 me**
+MUSIC VIDEO: created with malware
+
 **Museum of malware art in helsinki**
 EXHIBITION:
 
