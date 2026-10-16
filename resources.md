@@ -9,7 +9,7 @@ ART WORKS: a collection of work created during An Artist’s History of Computer
 
 **The persistence of Chaos**
 ART WORK: 2019, by artist Guo O Dong and the collective MSCHF, sold at auction for $1,345,000
-(https://thepersistenceofchaos.com/)
+(https://thepersistenceofchaos.com/) -> bad art, but interesting when it comes to art world critique, legality of art etc
 
 **DJ_Dave - Give it 2 me**
 MUSIC VIDEO: created with malware
@@ -22,7 +22,7 @@ ART WORK: Biennale.py is a computer virus that was created by Eva & Franco Matte
 
 **Yazna and ++**
 ART WORK: Luca Bertini released two email worms in 2004, Yazna and ++, one seeking the other 
-(https://rhizome.org/editorial/2005/feb/9/virus-valentine/)
+(https://rhizome.org/editorial/2005/feb/9/virus-valentine/) -> very little info about this project
 
 **Museum of Modern Malware (MoMal)**
 EXHIBITION: 2019, Museum of Modern Malware (MoMal) at DEFCON27
