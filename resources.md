@@ -25,7 +25,7 @@ ART WORK: Luca Bertini released two email worms in 2004, Yazna and ++, one seeki
 (https://rhizome.org/editorial/2005/feb/9/virus-valentine/)
 
 **Museum of Modern Malware (MoMal)**
-EXHIBITION: In 2019, there was the Museum of Modern Malware (MoMal) at DEFCON27
+EXHIBITION: 2019, Museum of Modern Malware (MoMal) at DEFCON27
 
 **The Aesthetics of Computer Viruses - I love you [rev.eng]**
 EXHIBITION: first exhibition worldwide dedicated to the phenomena of computer security and computer viruses
