@@ -31,6 +31,8 @@ EXHIBITION: 2019, Museum of Modern Malware (MoMal) at DEFCON27
 EXHIBITION: first exhibition worldwide dedicated to the phenomena of computer security and computer viruses
 (https://rhizome.org/community/31199/)
 
+**I Love You**
+EXHIBITION: Trasmediale, 2003 (https://transmediale.de/en/programme/i-love-you) (beginnings of poetic computing?)
 
 ???? ASCII Shell Forkbomb (an elegantly written fork bomb designed by Jaromil)
 
